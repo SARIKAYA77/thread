@@ -1,0 +1,42 @@
+[
+    {
+        "url": "https://temizlikyolda.com",
+        "string": "Müşteri Yorumları"
+    },
+    {
+        "url": "https://www.mynet.com/",
+        "string": "SON DAKİKA HABERLERİ"
+    },
+    {
+        "url": "http://www.hurriyet.com.tr/",
+        "string": "BIST ve Döviz Bilgileri"
+    },
+    {
+        "url": "https://www.gsmarena.com/",
+        "string": "Trending now"
+    },
+    {
+        "url": "https://www.hepsiburada.com/",
+        "string": "Günün Fırsatları"
+    },
+    {
+        "url": "https://code.visualstudio.com/",
+        "string": "Meet IntelliSense"
+    },
+    {
+        "url": "https://www.ntv.com.tr/",
+        "string": "Tüm Hakları Saklıdır"
+    },
+    {
+        "url": "https://www.samsung.com/tr/",
+        "string": "Galaxy'i Keşfet"
+    },
+    {
+        "url": "https://stackoverflow.com/",
+        "string": "Top Questions"
+    },
+    {
+        "url": "https://www.skype.com/tr/",
+        "string": "Microsoft 2019"
+    }    
+]
